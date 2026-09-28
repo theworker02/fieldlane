@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fieldlane",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Field color lane values and contrast-safe presentation helpers.",
+  "bin": {
+    "fieldlane": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fieldlane.git"
+  },
+  "homepage": "https://theworker02.github.io/fieldlane/",
+  "keywords": [
+    "field",
+    "lane",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
